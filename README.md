@@ -1,27 +1,28 @@
 # Привет! Я saint-sim 👋
 
 ### 🚀 Обо мне
-* 💻 Я занимаюсь **[бэкенд-разработкой / веб-разработкой]**
-* 🛠 Сейчас я активно изучаю **[Что изучаете, например: Go / Docker / Архитектуру систем]**
-* 🌱 Ищу возможности для участия в интересных проектах или стажировках.
+* 🎓 Студент **1 курса ИГУ** (Иркутский государственный университет).
+* 📚 В вузе активно изучаю **Python, C++, Web-разработку и высшую математику**.
+* 🤖 До поступления в университет занимался **разработкой Telegram-ботов**.
+* 💡 Мне интересна разработка **любых проектов** — всегда открыт для новых технологий, интересных задач и практики.
 
 ---
 
 ### 🛠 Мой стек технологий
-<!-- Бейджи со значками. Удалите ненужные или добавьте свои -->
 <p align="left">
   <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
   <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Telegram Bots" />
   <img src="https://shields.io" alt="Git" />
 </p>
 
 ---
 
 ### 📊 Моя статистика GitHub
-<!-- Автоматическая статистика вашего аккаунта saint-sim -->
+<!-- Блоки автоматически собирают информацию о вашей активности на GitHub -->
 <p align="center">
   <img src="https://vercel.app" alt="Статистика saint-sim" width="48%" />
   <img src="https://vercel.app" alt="Языки saint-sim" width="48%" />
@@ -38,3 +39,4 @@
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
+
