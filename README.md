@@ -1,16 +1,40 @@
-## Hi there 👋
+# Привет! Я saint-sim 👋
 
-<!--
-**saint-sim/saint-sim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Обо мне
+* 💻 Я занимаюсь **[бэкенд-разработкой / веб-разработкой]**
+* 🛠 Сейчас я активно изучаю **[Что изучаете, например: Go / Docker / Архитектуру систем]**
+* 🌱 Ищу возможности для участия в интересных проектах или стажировках.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий
+<!-- Бейджи со значками. Удалите ненужные или добавьте свои -->
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+### 📊 Моя статистика GitHub
+<!-- Автоматическая статистика вашего аккаунта saint-sim -->
+<p align="center">
+  <img src="https://vercel.app" alt="Статистика saint-sim" width="48%" />
+  <img src="https://vercel.app" alt="Языки saint-sim" width="48%" />
+</p>
+
+---
+
+### 📫 Как со мной связаться
+<p align="left">
+  <a href="https://t.me<ваш_ник_в_телеграм>" target="_blank">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
+  <a href="mailto:<ваша_почта@email.com>">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
