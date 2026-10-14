@@ -1,6 +1,9 @@
 # Привет! Я saint-sim 👋
+---
 <img src="https://i.pinimg.com/originals/c2/7d/3d/c27d3d73220bd25da884c2cf2087fd7f.gif" width="100%" background-radius="10px" alt="гифка" />
+---
 ### 🚀 Обо мне
+
 * 🎓 Студент **1 курса ИГУ** (Иркутский государственный университет).
 * 📚 В вузе активно изучаю **Python, C++, Web-разработку и высшую математику**.
 * 🤖 До поступления в университет занимался **разработкой Telegram-ботов**.
@@ -10,7 +13,7 @@
 
 ### 🛠 Мой стек технологий
 
-<p align="center">
+<p align="start">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKalANGR8SNCz_PDAS1yjcPqHatFb1j_nLCsDYbS6Qtg&s=10" height="50" /> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ocC11W10d8PtJi3r0zvNi9BZ_xP87FIQuBGShwSUQA&s=10" height="50" /> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P9NiruM4qUZmpH-Hnyl31gDc2mts429qxU2IkTBWJg&s=10"  height="50" /> 
