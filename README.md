@@ -10,9 +10,13 @@
 
 ### 🛠 Мой стек технологий
 
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKalANGR8SNCz_PDAS1yjcPqHatFb1j_nLCsDYbS6Qtg&s=10" width="25" height="25" /> **Python**
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ocC11W10d8PtJi3r0zvNi9BZ_xP87FIQuBGShwSUQA&s=10" width="25" height="25" /> **C++**
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P9NiruM4qUZmpH-Hnyl31gDc2mts429qxU2IkTBWJg&s=10" width="25" height="25" /> **HTML5**
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83RL37mljX1yDSmisIFEOOY9riJPw34Kide2D_BpBmQ&s" width="25" height="25" /> **CSS3**
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0RTwaUWOObLE9RRcwg9RQBJMLHuYkr1LRS_Avm_Dug&s=10" width="25" height="25" /> **JavaScript**
+<p align="center">
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKalANGR8SNCz_PDAS1yjcPqHatFb1j_nLCsDYbS6Qtg&s=10" height="50" /> **Python**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ocC11W10d8PtJi3r0zvNi9BZ_xP87FIQuBGShwSUQA&s=10" height="50" /> **C++**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P9NiruM4qUZmpH-Hnyl31gDc2mts429qxU2IkTBWJg&s=10"  height="50" /> **HTML5**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83RL37mljX1yDSmisIFEOOY9riJPw34Kide2D_BpBmQ&s"  height="50" /> **CSS3**
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0RTwaUWOObLE9RRcwg9RQBJMLHuYkr1LRS_Avm_Dug&s=10"  height="50" /> **JavaScript**
+</p>
+
+<img src="https://i.pinimg.com/originals/c2/7d/3d/c27d3d73220bd25da884c2cf2087fd7f.gif" width="300" alt="гифка" />
 
