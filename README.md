@@ -1,7 +1,7 @@
 # Привет! Я saint-sim 👋
 ---
-<img src="https://i.pinimg.com/originals/c2/7d/3d/c27d3d73220bd25da884c2cf2087fd7f.gif" width="100%" background-radius="10px" alt="гифка" />
----
+<img src="https://i.pinimg.com/originals/c2/7d/3d/c27d3d73220bd25da884c2cf2087fd7f.gif" width="100%" style="border-radius: 10px;" alt="гифка" />
+
 ### 🚀 Обо мне
 
 * 🎓 Студент **1 курса ИГУ** (Иркутский государственный университет).
