@@ -14,10 +14,10 @@
 ### 🛠 Мой стек технологий
 
 <p align="start">
-  <img style="border-radius: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKalANGR8SNCz_PDAS1yjcPqHatFb1j_nLCsDYbS6Qtg&s=10" height="50" /> 
-  <img style="border-radius: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ocC11W10d8PtJi3r0zvNi9BZ_xP87FIQuBGShwSUQA&s=10" height="50" /> 
-  <img style="border-radius: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P9NiruM4qUZmpH-Hnyl31gDc2mts429qxU2IkTBWJg&s=10"  height="50" /> 
-  <img style="border-radius: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83RL37mljX1yDSmisIFEOOY9riJPw34Kide2D_BpBmQ&s"  height="50" /> 
+  <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKalANGR8SNCz_PDAS1yjcPqHatFb1j_nLCsDYbS6Qtg&s=10" height="50" /> 
+  <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ocC11W10d8PtJi3r0zvNi9BZ_xP87FIQuBGShwSUQA&s=10" height="50" /> 
+  <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P9NiruM4qUZmpH-Hnyl31gDc2mts429qxU2IkTBWJg&s=10"  height="50" /> 
+  <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83RL37mljX1yDSmisIFEOOY9riJPw34Kide2D_BpBmQ&s"  height="50" /> 
   <img style="border-radius: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0RTwaUWOObLE9RRcwg9RQBJMLHuYkr1LRS_Avm_Dug&s=10"  height="50" /> 
 </p>
 
