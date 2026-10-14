@@ -9,11 +9,10 @@
 ---
 
 ### 🛠 Мой стек технологий
-<p align="left">
-  <p>Python</p>
-  <p>C++</p>
-  <p>HTML5</p>
-  <p>CSS3</p>
-  <p>JavaScript</p>
-</p>
+
+![Python](https://shields.io)
+![C++](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
 
